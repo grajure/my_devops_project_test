@@ -2,9 +2,8 @@
 I am staying in pune form last 10 years onwords.
 I belongs to Nanded district.*/
 
-class HelloWorld1{
+class HelloWorld{
   public static void main(String args[]){
-    System.out.println("Congratulation Ganesh, \"you had successfully run this program\"");
-
+    System.out.println("Hello World");
   }
 }
